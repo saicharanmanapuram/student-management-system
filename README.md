@@ -45,7 +45,7 @@ def DisplayForm():
     #setting width and height for window
     display_screen.geometry("900x400")
     #setting title for window
-    display_screen.title("SAMIR PAUL")
+    display_screen.title("SAI CHARAN")
     #declaring variables
     global tree
     global SEARCH
